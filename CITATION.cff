@@ -4,8 +4,16 @@ message: If you use this software, please cite it using this metadata and record
   or release used.
 title: They Vote For You
 authors:
-- name: theyvoteforyou project
-  website: https://github.com/openaustralia/theyvoteforyou
+- family-names: Degan
+  given-names: Henare
+- family-names: Landauer
+  given-names: Matthew
+- family-names: Bacon
+  given-names: Luke
+- family-names: Szuminska
+  given-names: Katherine
+- name: OpenAustralia Foundation
+  website: https://www.oaf.org.au
 repository-code: https://github.com/edithatogo/theyvoteforyou
 url: https://github.com/edithatogo/theyvoteforyou
 abstract: This repository is a fork of openaustralia/theyvoteforyou. The upstream project
